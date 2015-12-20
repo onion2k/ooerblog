@@ -1,0 +1,29 @@
+<% if (item.link){ %>
+  <% if (item.title){ %>
+    <% if (item.layout === 'webgl'){ %>
+      <h1 class="title">WebGL: <a href="<%- item.link %>" class="link" target="_blank"><%= item.title %></a></h1>
+    <% } else { %>
+      <h1 class="title"><a href="<%- item.link %>" class="link" target="_blank"><%= item.title %></a></h1>
+    <% } %>
+  <% } else { %>
+    <% if (item.layout === 'webgl'){ %>
+      <h1 class="title">WebGL: <%= item.title %></h1>
+    <% } else { %>
+      <h1 class="title"><a href="<%- item.link %>" class="link" target="_blank"><%= item.link %></a></h1>
+    <% } %>
+  <% } %>
+<% } else { %>
+  <% if (index){ %>
+    <% if (item.layout === 'webgl'){ %>
+      <h1 class="title"><a href="<%- config.root %><%- item.path %>">WebGL: <%= item.title %></a></h1>
+    <% } else { %>
+      <h1 class="title"><a href="<%- config.root %><%- item.path %>"><%= item.title %></a></h1>
+    <% } %>
+  <% } else { %>
+    <% if (item.layout === 'webgl'){ %>
+      <h1 class="title">WebGL: <%= item.title %></h1>
+    <% } else { %>
+      <h1 class="title"><%= item.title %></h1>
+    <% } %>
+  <% } %>
+<% } %>

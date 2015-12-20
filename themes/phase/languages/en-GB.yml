@@ -1,0 +1,13 @@
+categories: Categories
+search: Search
+tags: Tags
+tagcloud: Tag Cloud
+tweets: Tweets
+prev: Previous
+next: Next
+comment: Comment
+archive_a: Archive
+archive_b: Archive：%s
+category: Category：%s
+tag: Tag：%s
+page: Page %d

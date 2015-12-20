@@ -1,0 +1,15 @@
+title: Bringing things up to date.
+date: 2014-07-01
+tags: [DevOps]
+---
+All over the digital industry there are relics of a bygone era - websites that were once beautiful, edgy, 'on-trend' for the earliest years of this century. Now they're antiquated artefacts of a comically ignorant period on our timeline of developer learning. But, even though they make us cringe with embarrassment when we look back through the code, the businesses that own them don't want to rebuild. There is no budget to start over. They want us to maintain these hideous creations.
+
+As much as it might go against our technical sensibilities, we have responsibilities. We have to keep them going. That doesn't mean we can't drag them, in some small part, up to something resembling modern standards in web development.
+<!-- more -->
+
+A decade ago a common agency website setup was a very simple affair - a directory of PHP code, with /includes for libraries, a bunch of templates in some language like Twig or Smarty, and directories of assets in /css, /js and /images. If there was any sort of content management then there'd be a /admin directory leading to what was ostensibly a second separate website for administering things. Perhaps there'd be a /upload directory with write access so that website admin could upload things to the "CMS".
+
+All of this would be uploaded to the server with FTP.
+
+It wasn't pretty, but it worked.
+

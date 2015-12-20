@@ -1,0 +1,17 @@
+title: Socrates on Startups
+date: 2014-02-05
+tags: [Philosophy]
+---
+Surprisingly little is known about Socrates. If we skim over the theory that Plato made him up, we know he was a philosopher who lived in Athens, we know he was married to Xanthippe, and we know he had three sons. As a philosopher, we know he used to hang about in Athenian marketplaces asking passersby annoying questions. That’s pretty much it. Socrates never wrote any of his ideas down. All we have is Plato’s stories of what his teacher said and Aristophenes’ plays that mocked and parodied the way he thought. It’s that way of thinking that we can learn useful lessons from today.
+<!-- more -->
+The “Socratic Method”, or “Socratic questioning” if you’d rather, puts asking questions front and centre. We know nothing until we’ve questioned what we believe to be true. The word “know” has a very specific meaning in this context – we might assume and think things, but we can’t determine their true or not, eg “know” them, until we’ve examined where our thinking comes from and whether or not it contradicts either facts or other things we believe to be true. Questioning something, and then continuing to question the answers we come up with, is absolutely essential. The process drills down through assumptions to get at the underlying truth.
+
+The Socratic method can be summarised in five steps;
+
+1. **Question what you think.** If you have an idea that’s a few lines long, expand it out to be a few pages. An elevator pitch is great for getting someone’s attention, but it’s not good enough to decide whether or not a business is actually going to work. Clarify your thoughts – explain things in more and more depth. If there are flaws, they’ll come out as you try (and fail) to explain things in detail.
+1. **Find cases that demonstrate your assumptions are wrong.** For example, if your business idea assumes that your potential market is “eBay users who want to streamline their sales process”, ask yourself if there are eBay users who don’t want to streamline. Is that even possible? If it is, your assumptions about the size of your market could be very wrong – maybe eBay users don’t care if they’re wasting a few minutes on every sale.
+1. **Look for flaws in your evidence.** You’ve tested your idea with people, you’ve researched your market, and you’ve got evidence that there’s some potential. Ask if there’s any reason to doubt the validation you’ve got from the evidence. Was your method of testing accurate? Did you ask leading questions? Were you asking people who might not be wholly truthful (eg family members who don’t want to ruin your dream)?
+1. **Pose hypotheticals.** Engage with “what if?”. If you’re building an application to bring music fans recommendations of bands they’ve not heard of before, what if Twitter launches an application to do the same thing a week before you? What happens if you fail to land Series A funding? Never assume everything will go to plan. Remember, “planning is guessing” (that’s 37Signals, not Socrates).
+1. **Do it all again.** Question the questions you’ve asked yourself. Ask which questions were important, which questions highlighted flaws, which questions drew out interesting thoughts about your start-up. Ask those questions again.
+
+Most of all, Socratic questioning is about asking disciplined questions about your ideas. If you lie to yourself you’re much more likely to fail; not because your idea is necessarily a bad one, but because you’ll miss things you could have foreseen. That’d suck.

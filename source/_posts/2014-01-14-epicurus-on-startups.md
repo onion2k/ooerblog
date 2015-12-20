@@ -1,0 +1,13 @@
+title: Epicurus on Startups
+date: 2014-02-05
+tags: [Philosophy]
+---
+Epicurus had a bit of a bad name when he was alive. People in Athens where he lived thought of him as a hedonist, and thought the school he founded was all feasts and orgies. The reason for this misunderstanding was the fact he went around telling people that happiness was the be-all-and-end-all of everything, and that they ought to do whatever they can to make themselves happy. “Our highest good is happiness” was written on the gate to his house. You can see why people might have got the wrong end of the stick.
+<!-- more -->
+As it turns out though, Epicurus’ school of thought, while ostensibly similar to hedonistic practises, was really about examining your life and figuring out what the bare minimum was that you needed to be happy, and living happily with that much. As he said, “Nothing is enough to the man to whom enough is too little.” If you’re not happy with ‘enough’ then no amount will ever be enough.
+
+There’s an interesting parallel between Epicurus’ teachings and the modern Lean Startup movement. In Eric Reis’ book he argues that you should cut out the things that distract you from success. Where Epicurus argued that we should be satisfied in life by limiting desire and seeking pleasure, Reis states, in a similar way, everything that a start-up does should be seeking customer satisfaction. By limiting what your start-up desires to “only things that make the customer happier” it’s much more likely your start-up will be a success.
+
+Limiting distractions is not an easy thing to do. Harking back to the previous post in this series, using Socratic method to question what you really ought to be focusing on is useful to work out what’s a distraction. Asking yourself what features your customers really need (or better yet, asking them) informs what you should be looking at. For example, at Usable very early on in the project we implemented a clever system for customising the user interface using themes. As it was though, we did that because we thought it’d be awesome rather than doing it to answer a customer need. It was a distraction. We should have spent that time working on features that the customers were asking for.
+
+It’s incredibly easy to be distracted by what’s cool/new/awesome when you’re building your own product rather than working on something for someone else. The critical thing to remember is that really you’re not building anything for yourself. You’re building for your customer. If they don’t need it, if it’s not going to make them happier, then you shouldn’t be doing it.
