@@ -1,4 +1,9 @@
 <nav>
+  <ul id="right">
+    <% for (var i in theme.menu2){ %>
+      <li><a href="<%- theme.menu2[i] %>"><%= i %></a></li>
+    <% } %>
+  </ul>
   <ul>
     <% for (var i in theme.menu){ %>
       <li><a href="<%- theme.menu[i] %>"><%= i %></a></li>
